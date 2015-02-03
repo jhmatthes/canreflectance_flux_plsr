@@ -10,4 +10,8 @@ pslr_bootstrap.R: Conducts bootstrapped PLSR fitting using randomized sets of ca
 
 plsr_validate.R: Used to evaluate the mean bootstrapped PLSR model on an independent validation dataset.
 
+plot_plsr_validate.R: Used to create a plot of the plsr validation results.
+
+VIP.R: Function to calculate the variable importance of projection metric.
+
 
